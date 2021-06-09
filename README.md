@@ -10,7 +10,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br><hr>
-
+<!-- 
 This Application is based on CRUD Application. In this Application I had use Java Spring Boot, Hibernate and SQL Database, JSP and CSS
 
 Here are some Images of the working of Application.
@@ -23,6 +23,5 @@ Here are some Images of the working of Application.
 
 # Second Page
 2] List Of Customers 
-
-![2 page](https://user-images.githubusercontent.com/67656639/120005983-0fa0f980-bff6-11eb-96f7-ddc3ea373587.PNG)
+<img alt="SQL" width="200px" src="https://user-images.githubusercontent.com/67656639/120005983-0fa0f980-bff6-11eb-96f7-ddc3ea373587.PNG" /> -->
 
