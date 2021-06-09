@@ -10,9 +10,9 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br><hr>
-<!-- 
-This Application is based on CRUD Application. In this Application I had use Java Spring Boot, Hibernate and SQL Database, JSP and CSS
 
+This Application is based on CRUD Application. In this Application I used Java Spring Boot, Hibernate, SQL Database, JSP and CSS
+<!-- 
 Here are some Images of the working of Application.
 
 # First Page
