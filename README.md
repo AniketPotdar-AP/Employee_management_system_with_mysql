@@ -1,6 +1,6 @@
-# Web Customer Tracker
+# Java CRUD With MySQL
 
-#### Languges Used : 
+#### Languages Used : 
 
 <img align="left" alt="JSP" width="26px" src="https://user-images.githubusercontent.com/67656639/120150784-1b183e80-c209-11eb-891c-a737333fc952.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -11,9 +11,9 @@
 
 <br><hr>
 
-This Application is based on CRUD Application. In this Application I used Java Spring Boot, Hibernate, SQL Database, JSP and CSS
+This Application is based on CRUD Application. In this Application, I used Java Spring Boot, Hibernate, SQL Database, JSP, and CSS
 <!-- 
-Here are some Images of the working of Application.
+Here are some Images of the working of the Application.
 
 # First Page
 1] Add Customer Page
